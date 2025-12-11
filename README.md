@@ -1,7 +1,6 @@
 # Lista de Compras em Python 🛒  
 ![Status](https://img.shields.io/badge/status-finalizado-green)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Lógica](https://img.shields.io/badge/conceito-de-listas-purple)
 ![Feito por](https://img.shields.io/badge/feito%20por-Israel%20Brito-orange)
 
 ## 📌 Sobre o Projeto  
